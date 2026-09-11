@@ -2,7 +2,7 @@
  * sd_spi.h
  *
  *  Created on: Aug 29, 2024
- *      Author: dimer_wu2tibk
+ *      Author: meowchine1 
  */
 
 #ifndef INC_SD_SPI_H_

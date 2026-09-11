@@ -2,10 +2,10 @@
  * sd_spi.c
  *
  *  Created on: Aug 29, 2024
- *      Author: dimer_wu2tibk
+ *      Author: meowchine1
  */
 #include <logger.h>
-#include "sd_spi.h"
+#include "zdsd32glgeag.h"
 #include <stdio.h>
 #include "spi.h"
 #include "main.h"
